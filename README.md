@@ -74,7 +74,7 @@ My ambition and passion drive me to be a very dedicated person and I'm hoping I 
 <h3>Top Languages I've used</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=livingsneaky-art"   alt="livingsneaky-art"/></p>
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=livingsneaky-art)](https://git.io/streak-stats)
 <div align="center">
 <h3>My Stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livingsneaky-art"  alt="livingsneaky-art" /></p>
