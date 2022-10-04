@@ -60,11 +60,11 @@ My ambition and passion drive me to be a very dedicated person and I'm hoping I 
 <hr>
 <div align="center">
 
-![livingsneaky-art's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livingsneaky-art&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![livingsneaky-art's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livingsneaky-art)
 
-![livingsneaky-art's Stats](https://github-readme-stats.vercel.app/api?username=livingsneaky-art&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![livingsneaky-art's Stats](https://github-readme-stats.vercel.app/api?username=livingsneaky-art)
 
-![livingsneaky-art's Streak](https://github-readme-streak-stats.herokuapp.com/?user=livingsneaky-art&theme=vue-dark&hide_border=true)
+![livingsneaky-art's Streak](https://github-readme-streak-stats.herokuapp.com/?user=livingsneaky-art)
 
 
 </div>
