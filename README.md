@@ -72,11 +72,11 @@ My ambition and passion drive me to be a very dedicated person and I'm hoping I 
 
 <div align="center">
 <h3>Top Languages I've used</h3>
-<p align="center"><img align="center" src="https://raw.githubusercontent.com/livingsneaky-art/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="livingsneaky-art"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=livingsneaky-art"   alt="livingsneaky-art"/></p>
 </div>
 
 <div align="center">
 <h3>My Stats</h3>
-<p><img align="center" src="https://raw.githubusercontent.com/livingsneaky-art/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="livingsneaky-art" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livingsneaky-art"  alt="livingsneaky-art" /></p>
 
 </div>
