@@ -70,7 +70,7 @@ My ambition and passion drive me to be a very dedicated person and I'm hoping I 
 <hr>
 
 <h3>Top Languages I've used</h3>
- ![livingsneaky-art's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livingsneaky-art&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![livingsneaky-art's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livingsneaky-art&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <h3>My Stats</h3>
 
