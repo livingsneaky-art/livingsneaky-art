@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ryan Llamido</h1>
-<h3 align="center">A 3rd Year Informantion Technology Student at University of San Carlos</h3>
+<h3 align="center">A 3rd Year Information Technology Student at University of San Carlos</h3>
 
 <div align="center">grinding<br><br>
 My ambition and passion drive me to be a very dedicated person and I'm hoping I can realize my goals.
