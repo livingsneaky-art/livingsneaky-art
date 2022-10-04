@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://raw.githubusercontent.com/livingsneaky-art/github-stats/master/generated/overview.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=livingsneaky-art&theme=prussian)](https://git.io/streak-stats)
 <h1 align="center">Hi 👋, I'm Ryan Llamido</h1>
 <h3 align="center">A 3rd Year Informantion Technology Student at University of San Carlos</h3>
 
