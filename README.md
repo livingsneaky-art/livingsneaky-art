@@ -66,6 +66,6 @@ My ambition and passion drive me to be a very dedicated person and I'm hoping I 
 
 <div align="center">
 <h3>My Stats</h3>
-<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=livingsneaky)](https://git.io/streak-stats)" alt="livingsneaky-art" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livingsneaky&layout=compact&theme=radical" alt="livingsneaky-art" /></p>
 
 </div>
