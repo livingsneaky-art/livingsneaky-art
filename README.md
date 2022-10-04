@@ -67,16 +67,13 @@ My ambition and passion drive me to be a very dedicated person and I'm hoping I 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> -->
 
 
+
+![livingsneaky-art's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livingsneaky-art&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+
+![livingsneaky-art's Stats](https://github-readme-stats.vercel.app/api?username=livingsneaky-art&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![livingsneaky-art's Streak](https://github-readme-streak-stats.herokuapp.com/?user=livingsneaky-art&theme=vue-dark&hide_border=true)
+
 </p>
 <hr>
-
-<div align="center">
-<h3>Top Languages I've used</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=livingsneaky-art"   alt="livingsneaky-art"/></p>
-</div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=livingsneaky-art)](https://git.io/streak-stats)
-<div align="center">
-<h3>My Stats</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livingsneaky-art"  alt="livingsneaky-art" /></p>
-
-</div>
