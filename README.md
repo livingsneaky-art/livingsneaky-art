@@ -65,8 +65,8 @@ My ambition and passion drive me to be a very dedicated person and I'm hoping I 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> -->
 
-
-
+<hr>
+<div align="center">
 ![livingsneaky-art's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livingsneaky-art&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
@@ -74,5 +74,5 @@ My ambition and passion drive me to be a very dedicated person and I'm hoping I 
 ![livingsneaky-art's Stats](https://github-readme-stats.vercel.app/api?username=livingsneaky-art&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![livingsneaky-art's Streak](https://github-readme-streak-stats.herokuapp.com/?user=livingsneaky-art&theme=vue-dark&hide_border=true)
 
-</p>
-<hr>
+
+</div>
