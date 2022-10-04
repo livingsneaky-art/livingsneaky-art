@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/69794504/186140941-16056365-4dd6-4062-9806-4c2e1de07b9a.gif)
 <h1 align="center">Hi 👋, I'm Ryan Llamido</h1>
 <h3 align="center">A 3rd Year Informantion Technology Student at University of San Carlos</h3>
 
@@ -61,11 +60,11 @@ My ambition and passion drive me to be a very dedicated person and I'm hoping I 
 
 <div align="center">
 <h3>Top Languages I've used</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=livingsneaky&show_icons=true&locale=en&layout=compact&theme=radical" alt="livingsneaky-art"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=livingsneaky-art&show_icons=true&locale=en&layout=compact&theme=radical" alt="livingsneaky-art"/></p>
 </div>
 
 <div align="center">
 <h3>My Stats</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=livingsneaky" alt="livingsneaky-art" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=livingsneaky-art" alt="livingsneaky-art" /></p>
 
 </div>
