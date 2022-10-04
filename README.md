@@ -60,7 +60,7 @@ My ambition and passion drive me to be a very dedicated person and I'm hoping I 
 <hr>
 <div align="center">
 
-![livingsneaky-art's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livingsneaky-art)
+![livingsneaky-art's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livingsneaky-art&theme=vue-light&show_icons=true&hide_border=true&layout=compact)
 
 ![livingsneaky-art's Stats](https://github-readme-stats.vercel.app/api?username=livingsneaky-art)
 
