@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ezgif com-gif-maker](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg)
 <h1 align="center">Hi 👋, I'm Ryan Llamido</h1>
 <h3 align="center">A 3rd Year Informantion Technology Student at University of San Carlos</h3>
 
