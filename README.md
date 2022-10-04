@@ -66,26 +66,18 @@ My ambition and passion drive me to be a very dedicated person and I'm hoping I 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> -->
 
 
-
-
-
-
-
-
-
-
-
-
 </p>
 <hr>
 
 <div align="center">
 <h3>Top Languages I've used</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=livingsneaky-art" alt="livingsneaky-art"/></p>
+<p align="center">![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+</p>
 </div>
 
 <div align="center">
 <h3>My Stats</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livingsneaky-art" alt="livingsneaky-art" /></p>
+<p>![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+</p>
 
 </div>
