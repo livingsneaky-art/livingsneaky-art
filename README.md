@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="trello.com" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-logo.png" alt="trello" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/agile" target="_blank" rel="noreferrer"> <img src="https://www.pngmart.com/files/21/Agile-PNG-HD-Isolated.png" alt="agile" width="40" height="40"/> </a> 
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://jira.osm.no/images/atlassian-jira-logo-large.png" alt="jira" width="40" height="40"/> </a> 
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Logo.png" alt="jira" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
