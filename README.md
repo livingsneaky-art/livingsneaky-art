@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+<a href="https://visualstudio.microsoft.com/vs/community/" target="_blank" rel="noreferrer"> <img src="https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDCFJDKLZJLP8-9f0889aa-51ca-446e-b252-6aa1be61f43d" alt="vscommunity" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/brand" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
