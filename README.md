@@ -14,14 +14,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ryan Llamido</h1>
 <h3 align="center">A 3rd Year Information Technology Student at University of San Carlos</h3>
-
-![](https://komarev.com/ghpvc/?username=livingsneaky-art&label=PROFILE+VIEWS)
-
-
 <div align="center">I'm a 3rd-year Infomation Technology student from the Univesity of San Carlos and an aspiring full-stack developer. I started my programming journey when I watched a movie and I was amazed at how they were able to make the applications. It starts my curiosity on development and started to web apps but soon realized that there are many things that you can learn and do with programming. That is how I got into this programming life cycle and found my passion in this field. As of now, I'm currently learning web development mainly with Vue Js.<br><br>
 <!--Content Here-->
 </div>
 <hr>
+<center>![](https://komarev.com/ghpvc/?username=livingsneaky-art&label=PROFILE+VIEWS)</center>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ryan-llamido-653a801a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-llamido" height="30" width="40" /></a>
