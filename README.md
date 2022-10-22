@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=68F736&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ryan+Llamido+Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=68F736&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ryan+Llamido+Have+a+wondeful day!" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">A 3rd Year Information Technology Student at University of San Carlos</h3>
 <div align="center">I'm a 3rd-year Infomation Technology student from the Univesity of San Carlos and an aspiring full-stack developer. I started my programming journey when I watched a movie and I was amazed at how they were able to make the applications. It starts my curiosity on development and started to web apps but soon realized that there are many things that you can learn and do with programming. That is how I got into this programming life cycle and found my passion in this field. As of now, I'm currently learning web development mainly with Vue Js.<br><br>
