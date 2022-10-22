@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <!--Content Here-->
 </div>
 <hr>
-<div align="center">![](https://komarev.com/ghpvc/?username=livingsneaky-art&label=PROFILE+VIEWS)</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ryan-llamido-653a801a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-llamido" height="30" width="40" /></a>
@@ -71,7 +70,7 @@ Here are some ideas to get you started:
 
 <hr>
 <div align="center">
-
+![](https://komarev.com/ghpvc/?username=livingsneaky-art&label=PROFILE+VIEWS)
 ![livingsneaky-art's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livingsneaky-art&theme=vue-light&show_icons=true&hide_border=true&layout=compact)
 
 ![livingsneaky-art's Stats](https://github-readme-stats.vercel.app/api?username=livingsneaky-art)
