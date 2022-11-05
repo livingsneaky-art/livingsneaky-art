@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=68F736&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ryan+Llamido+BSIT+3" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">A 3rd Year BS Information Technology Student at University of San Carlos</h3>
-<div align="center">I'm a 3rd-year Infomation Technology student from the Univesity of San Carlos and an aspiring full-stack developer. I started my programming journey when I watched a movie and I was amazed at how they were able to make the applications. It starts my curiosity on development and started to web apps but soon realized that there are many things that you can learn and do with programming. That is how I got into this programming life cycle and found my passion in this field. As of now, I'm currently learning web development mainly with React Js, C#, and Firebase.<br><br>
+<div align="center">I'm a 3rd-year BS Infomation Technology student from the Univesity of San Carlos and an aspiring full-stack developer. I started my programming journey when I watched a movie and I was amazed at how they were able to make the applications. It starts my curiosity on development and started to web apps but soon realized that there are many things that you can learn and do with programming. That is how I got into this programming life cycle and found my passion in this field. As of now, I'm currently learning web development mainly with React Js, C#, and Firebase.<br><br>
 <!--Content Here-->
 </div>
 <hr>
