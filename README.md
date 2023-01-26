@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=68F736&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ryan+Llamido+BSIT" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center"> A BS Information Technology Student at University of San Carlos</h3>
-<div align="center">As a full stack PHP developer, I have experience in all aspects of web application development using PHP and related technologies. I am proficient in front end technologies such as HTML, CSS, and JavaScript, and have experience with back end technologies such as databases, server-side frameworks, and RESTful APIs. I am a team player with strong problem-solving skills and the ability to quickly learn and adapt to new technologies. I have experience with Agile development processes and version control systems such as Git.<br><br>
+<div align="center">As a full stack developer, I have experience in all aspects of web and mobile application development using PHP, Laravel, node js, react, C#, ASP.NET MVC, Xamarin, firebase and related technologies. I am proficient in front end technologies such as HTML, CSS, Boostrap, JQuery, and JavaScript, and have experience with back end technologies such as databases(MySQL, SQL), server-side frameworks, and RESTful APIs. I am a team player with strong problem-solving skills and the ability to quickly learn and adapt to new technologies. I have experience with Agile development processes and version control systems such as Git.<br><br>
 <!--Content Here-->
 </div>
 <hr>
