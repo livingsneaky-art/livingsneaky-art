@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=68F736&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ryan+Llamido+BSIT" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center"> A BS Information Technology Student at University of San Carlos</h3>
-<div align="center">I have developed a strong passion for programming and web development, and have been actively learning technologies such as React, ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework, SQL, Azure, AWS, and UX Design. I am excited to continue improving my skills and gaining experience in the field, and I believe that by learning and expanding my knowledge, practicing my skills, getting involved in the development community, and seeking out opportunities for professional development, I can become a well-rounded and proficient full-stack developer. I hope to have the opportunity to work with you and utilize my skills to create solutions and applications that meet your needs. I am a team player with strong problem-solving skills and the ability to quickly learn and adapt to new technologies. I have experience with Agile development processes and version control systems such as Git.<br><br>
+<h3 align="center"> A Software Developer</h3>
+<div align="center">I have developed a strong passion for programming and web development, and have been actively learning technologies such as Open API, ASP.NET Frameworks, ASP.NET Core, .NET Core Identity, Dapper, Stored Procedure, SQL, Microsoft Azure Service, React, Node js, Git, and UX/UI Design. I am excited to continue improving my skills and gaining experience in the field, and I believe that by learning and expanding my knowledge, practicing my skills, getting involved in the development community, and seeking out opportunities for professional development, I can become a well-rounded and proficient full-stack developer. I hope to have the opportunity to work with you and utilize my skills to create solutions and applications that meet your needs.<br><br>
 <!--Content Here-->
 </div>
 <hr>
